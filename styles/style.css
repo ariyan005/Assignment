@@ -30,7 +30,7 @@ body {
   opacity: 0.9;
 }
 .hero-bg {
-  background: url("Hero-bg.png") repeat;
+  background: url("Assets/Hero-bg.png") repeat;
   background-size: 120px 120px;
 }
 .header {
